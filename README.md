@@ -1,1 +1,2 @@
-First web-dev Project
+# First web-dev Project
+Food Restaurant - Taste the Extraordinary , Everyday.
